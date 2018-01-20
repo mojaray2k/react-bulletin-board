@@ -1,0 +1,26 @@
+{
+  "name": "bulletin-board",
+  "version": "0.1.0",
+  "description": "A react web app displaying notes on a bulletin board",
+  "private": true,
+  "author": "Amen Moja Ra",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mojaray2k/react-bulletin-board.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mojaray2k/react-bulletin-board/issues"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-icons": "^2.2.7",
+    "react-scripts": "1.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
